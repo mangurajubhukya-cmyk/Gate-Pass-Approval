@@ -1,4 +1,7 @@
-# Gate-Pass-Approval
+ https://mangurajubhukya-cmyk.github.io/Gate-Pass-Approval/
+ 
+ 
+ # Gate-Pass-Approval
 Easy to enter or leave  with this websites
 https://github.com/mangurajubhukya-cmyk/GatePass-Approval.git
 
